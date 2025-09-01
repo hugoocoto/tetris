@@ -1,4 +1,4 @@
-# TTY-tetris
+# tetris
 
 ## Play tetris from tty! (or any terminal emulator)
 
@@ -17,7 +17,7 @@ cd tetris
 
 ``` sh
 make install
-tty-tetris
+tetris
 ```
 Note, it requires `sudo` as it writes
 the compiled binary to /usr/local/bin/. Dont forget to change
@@ -28,7 +28,7 @@ For uninstall it you can run `sudo make uninstall`.
 
 ``` sh
 make all
-./tty-tetris
+./tetris
 ```
 
 ### Default binds

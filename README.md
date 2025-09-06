@@ -9,7 +9,7 @@
 #### Clone the repo
 
 ``` sh
-git clone https://github.com/hugocotoflorez/tetris
+git clone https://github.com/hugoocoto/tetris
 cd tetris
 ```
 
